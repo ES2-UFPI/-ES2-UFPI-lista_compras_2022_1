@@ -11,3 +11,6 @@ Legumes
 chocolate
 vinho
 mel
+leite condensado
+aveia
+banana
