@@ -6,3 +6,5 @@ feijão
 batata
 soja
 farinha
+Pipoca
+Legumes
