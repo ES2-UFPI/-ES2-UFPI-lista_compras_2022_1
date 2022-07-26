@@ -4,3 +4,5 @@ carne
 macarrão
 feijão
 batata
+soja
+farinha
