@@ -8,3 +8,6 @@ soja
 farinha
 Pipoca
 Legumes
+chocolate
+vinho
+mel
