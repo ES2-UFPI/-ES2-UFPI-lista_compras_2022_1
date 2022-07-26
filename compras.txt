@@ -8,3 +8,6 @@ soja
 farinha
 Pipoca
 Legumes
+queijo
+presunto
+pão
