@@ -2,3 +2,5 @@ arroz
 feijão
 carne
 macarrão
+feijão
+batata
