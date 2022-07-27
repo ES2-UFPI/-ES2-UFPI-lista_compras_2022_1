@@ -23,3 +23,5 @@ Cebola
 Iogurte
 queijo
 presunto
+Abacate
+Polpa de manga
