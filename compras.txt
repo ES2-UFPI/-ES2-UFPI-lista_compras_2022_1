@@ -26,3 +26,10 @@ presunto
 Abacate
 Polpa de manga
 Rapadura
+cafe
+laranja
+tomate
+cenoura
+abobrinha
+cereal
+tempero
